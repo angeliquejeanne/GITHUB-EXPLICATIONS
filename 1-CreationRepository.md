@@ -1,4 +1,4 @@
-#Créer un nouveau repository
+# Créer un nouveau repository
 
 Un repository (répertoire en anglais) correspond à un projet. Ce repository pourra contenir des dossiers, des
 fichiers, des images… en gros tout ce dont votre projet aura besoin !
